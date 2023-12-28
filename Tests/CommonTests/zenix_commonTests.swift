@@ -1,5 +1,5 @@
 import XCTest
-@testable import zenix_common
+@testable import Common
 
 final class zenix_commonTests: XCTestCase {
     func testExample() throws {
